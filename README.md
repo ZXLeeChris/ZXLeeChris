@@ -3,7 +3,8 @@
 - 🔭 I’m currently studying on SSAFY.
 - 🌱 I’m currently learning python.
       I've used C, HTML, JS.
-  <img src = "https://simpleicons.org/icons/c.svg"/>  
+  <p align = "center">
+      <img src = "https://img.shields.io/badge/-C-%23A8B9CC"/></a>&nbsp
 - 📫 How to reach me:  
   email: dlchris19@gmail.com  
   blog:  [Naver Blog](https://blog.naver.com/chris_iari)
