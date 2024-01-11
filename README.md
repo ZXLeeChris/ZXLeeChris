@@ -5,6 +5,9 @@
       I can use C, HTML, JS. 
 - 📫 How to reach me:  
   email: dlchris19@gmail.com
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
+  [![naver's GitHub stats](https://naver-readme-stats.vercel.app/api?name=dlchris7)](https://blog.naver.com/chris_iari)
+  [naver blog](https://blog.naver.com/chris_iari)
 <!--
 **ZXLeeChris/ZXLeeChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
