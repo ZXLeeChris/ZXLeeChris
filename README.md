@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on SSAFY.
-- 🌱 I’m currently learning python.
-      I've used C, HTML, JS.
+- 🌱 I’m currently learning python.  
+
+  <h4 align = "center"> I've used ... (at least once)  </h4>
   <p align = "center">
-      <img src = "https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=simpleiconsc&logoColor=white"/></a>&nbsp
+      <img src = "https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+      <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+      <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp
+</p>
+
 - 📫 How to reach me:  
   email: dlchris19@gmail.com  
   blog:  [Naver Blog](https://blog.naver.com/chris_iari)
