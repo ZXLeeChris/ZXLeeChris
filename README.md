@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python.
       I've used C, HTML, JS.
   <p align = "center">
-      <img src = "https://img.shields.io/badge/-C-%23A8B9CC"/></a>&nbsp
+      <img src = "https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=simpleiconsc&logoColor=white"/></a>&nbsp
 - 📫 How to reach me:  
   email: dlchris19@gmail.com  
   blog:  [Naver Blog](https://blog.naver.com/chris_iari)
