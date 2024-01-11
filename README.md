@@ -5,6 +5,8 @@
       I can use C, HTML, JS. 
 - 📫 How to reach me:  
   email: dlchris19@gmail.com
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole)
   
   [![naver's GitHub stats](https://naver-readme-stats.vercel.app/api?name=dlchris7)](https://blog.naver.com/chris_iari)
   
