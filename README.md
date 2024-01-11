@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently studying on SSAFY.
 - 🌱 I’m currently learning python.
-      I can use C, HTML, JS. 
+      I've used C, HTML, JS.
+  <img src = "https://simpleicons.org/icons/c.svg"/>  
 - 📫 How to reach me:  
   email: dlchris19@gmail.com  
   blog:  [Naver Blog](https://blog.naver.com/chris_iari)
