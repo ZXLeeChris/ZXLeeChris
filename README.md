@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying on SSAFY.
+- 🌱 I’m currently learning python.
+      I can use C, HTML, JS. 
+- 📫 How to reach me:
+  email: dlchris19@gmail.com
 <!--
 **ZXLeeChris/ZXLeeChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
